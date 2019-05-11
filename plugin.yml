@@ -1,0 +1,4 @@
+name: 101Utilities
+main: me.pixel.plugin.utils.UtilitiesPlugin
+version: 1.0
+api-version: 1.14

@@ -1,0 +1,12 @@
+EnableEnchantCost: true
+EnableOreDropCut: true
+RabbitsEatsDandelion: false
+
+EffectBlackListEnabled: true
+EffectBlackList: 
+  - HERO_OF_THE_VILLAGE
+
+MobSpawnEnabled: true
+MobSpawn:
+  COW: [PLAINS]
+  SLIME: []
